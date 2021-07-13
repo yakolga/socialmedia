@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "San Francisco Pro Display";
+  src: url("../font/SFProDisplay-Semibold.eot");
+  src: url("../font/SFProDisplay-Semibold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../font/SFProDisplay-Semibold.woff") format("woff"),
+    url("../font/SFProDisplay-Semibold.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "San Francisco Pro Display";
+  src: url("../font/SFProDisplay-Regular.eot");
+  src: url("../font/SFProDisplay-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("../font/SFProDisplay-Regular.woff") format("woff"),
+    url("../font/SFProDisplay-Regular.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
